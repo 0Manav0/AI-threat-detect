@@ -96,7 +96,7 @@ cybersecurity-threat-ai-main/
 
 ├── models/                # Trained ML models
 
-├── data/(you have to unzip the folder)                  # Input datasets
+├── data/(you must have to unzip the folder)                  # Input datasets
 
 ├── templates/             # HTML templates
 
@@ -110,7 +110,7 @@ cybersecurity-threat-ai-main/
 
 ├── .gitignore
 
-#SPECIAL NOTE: PLEASE PLACE preprocessing-checkpoint.ipynb and all .ipynb FILES INSIDE A FOLDER NAMED .ipynb_checkpoints, sorry for inconvinence
+#SPECIAL NOTE: PLEASE PLACE preprocessing-checkpoint.ipynb and all .ipynb FILES INSIDE A FOLDER NAMED .ipynb_checkpoints also unzip data folder and check for dupicatiion in data folder, sorry for inconvinence
 
 
 📖 How it works
