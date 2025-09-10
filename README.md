@@ -53,7 +53,7 @@ venv\Scripts\activate       # For Windows
 
 5️⃣ Run the application:
 
-python deploy.py
+python src/deploy.py
 
 
 📁 Project Structure
