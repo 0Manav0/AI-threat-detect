@@ -55,9 +55,32 @@ python -m venv venv
 source venv/bin/activate    # For Linux/macOS
 venv\Scripts\activate       # For Windows
 
-5️⃣ Run the application:
+## Step-by-Step Usage
 
-python src/deploy.py
+### A. Preprocess the Data
+Converts ARFF to CSV, applies label encoding.
+```cmd
+python src\preprocess.py
+```
+
+### B. Train the Model
+Trains a Random Forest classifier on the preprocessed data.
+```cmd
+python src\train.py
+```
+
+### C. Test the Model Locally (Optional)
+```cmd
+python src\predict.py
+```
+
+### D. Deploy the API
+Runs the Flask server for real-time predictions.
+```cmd
+python src\deploy.py
+```
+
+after that visit http://127.0.0.1:5000 and pick your request as in form and submit
 
 
 📁 Project Structure
