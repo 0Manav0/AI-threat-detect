@@ -31,7 +31,8 @@ The system processes network data, applies machine learning algorithms, and pres
 1️⃣ Clone the repository:
 ``bash
 git clone https://github.com/0Manav0/AI-threat-detect.git
-cd AI-threat-detect
+
+NOTE : YOU MUST HAVE TO SAVE THE MAIN(PARENT) FOLDER AS cybersecurity-threat-ai-main
 
 2️⃣ Create and activate a virtual environment:
 
@@ -58,7 +59,7 @@ python src/deploy.py
 
 📁 Project Structure
 
-AI-threat-detect/                # Main Flask application
+cybersecurity-threat-ai-main/               
 ├── models/                # Trained ML models
 ├── data/(you have to unzip the folder)                  # Input datasets
 ├── templates/             # HTML templates
