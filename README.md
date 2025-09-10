@@ -1,3 +1,6 @@
+This project uses the publicly available AI model, which is licensed under the MIT License (see https://github.com/mahaswetaroy1/cybersecurity-threat-ai.git). The model was pre-trained and integrated into this project. All other components, features, and implementation were developed during the hackathon.
+
+
 # AI-Driven Threat Detection & Prioritization
 
 ## 📌 Project Overview
