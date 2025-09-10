@@ -59,14 +59,22 @@ python src/deploy.py
 
 📁 Project Structure
 
-cybersecurity-threat-ai-main/               
+cybersecurity-threat-ai-main/
+
 ├── models/                # Trained ML models
+
 ├── data/(you have to unzip the folder)                  # Input datasets
+
 ├── templates/             # HTML templates
+
 ├── static/                # CSS, JS, and images
+
 ├── src                   # python files of AI(includes deploy.py,train.py,predict.py and preprocess.py)
+
 ├── requirements.txt       # Python dependencies
+
 ├── README.md              # Project documentation
+
 ├── .gitignore
 
 #SPECIAL NOTE: PLEASE PLACE preprocessing-checkpoint.ipynb and all .ipynb FILES INSIDE A FOLDER NAMED .ipynb_checkpoints, sorry for inconvinence
