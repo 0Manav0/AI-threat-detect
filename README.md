@@ -34,6 +34,9 @@ The system processes network data, applies machine learning algorithms, and pres
 
 ---
 
+## Feature trying
+for trying how to get this in your website visit : https://github.com/0Manav0/AI-threat-detect-2.git
+
 ## 🚀 **Installation**
 
 ### ✅ Prerequisites
@@ -134,3 +137,4 @@ Extend models with additional data or tuning parameters.
 Deploy using gunicorn, Docker, or cloud platforms like AWS, GCP, or Heroku.
 
 Integrate with other SIEM tools using APIs.
+
